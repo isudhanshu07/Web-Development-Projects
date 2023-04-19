@@ -7,5 +7,6 @@ Preview here: [View Here](https://isudhanshu07.github.io/Web-Development-Project
 
 Output: New Year CountDown:<br>
 Preview here: [View Here](https://isudhanshu07.github.io/Web-Development-Projects/New%20Year%20Countdown/) <br>
-![image]()
+![image](https://user-images.githubusercontent.com/115497816/233182150-98133ad1-2ec0-45c2-89ef-54966c7b16a7.png)
+
 
